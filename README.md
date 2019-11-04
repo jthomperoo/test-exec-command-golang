@@ -1,6 +1,6 @@
 # Example repo of how to test exec.Command (and other system functions) in Golang
 
-Accompanies this article: [https://jamiethompson.me/posts/Unit-Testing-Exec-Command-In-Golang/](www.jamiethompson.me/blog/Unit-Testing-Exec-Command-In-Golang)
+Accompanies this article: [Unit-Testing-Exec-Command-In-Golang](https://jamiethompson.me/posts/Unit-Testing-Exec-Command-In-Golang/)
 
 ## Overview
 Package `funshell` contains the `ShellCommand` function which is being tested.  
